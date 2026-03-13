@@ -1,0 +1,16 @@
+{
+  "name": "uwu-management-bot",
+  "version": "1.0.0",
+  "description": "Discord management bot with duty system, logs and web panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.6",
+    "node-cron": "^3.0.3",
+    "express": "^4.19.2",
+    "better-sqlite3-session-store": "^0.1.0"
+  }
+}

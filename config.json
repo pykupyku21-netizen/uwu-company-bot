@@ -1,0 +1,9 @@
+
+{
+ "token": "PASTE_BOT_TOKEN",
+ "guildId": "SERVER_ID",
+ "zarzadRole": "ROLE_ID_ZARZAD",
+ "logChannel": "LOG_CHANNEL_ID",
+ "summaryChannel": "SUMMARY_CHANNEL_ID",
+ "panelPort": 3000
+}
