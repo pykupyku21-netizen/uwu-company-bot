@@ -1,9 +1,9 @@
 
 {
- "token": "PASTE_BOT_TOKEN",
- "guildId": "SERVER_ID",
- "zarzadRole": "ROLE_ID_ZARZAD",
- "logChannel": "LOG_CHANNEL_ID",
- "summaryChannel": "SUMMARY_CHANNEL_ID",
+ "token": "MTQ4MjA1MDQ3OTkxODgwOTIxOQ.GIG2jW.rv6iM5tYEp427ZIhM3iIAnDcbVXUAWLduQHid4",
+ "guildId": "1456355362822164591",
+ "zarzadRole": "1456355362847588539",
+ "logChannel": "1456355364470788372",
+ "summaryChannel": "1456355363782656102",
  "panelPort": 3000
 }
